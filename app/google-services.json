@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262588963166",
+    "project_id": "detect-text-41120",
+    "storage_bucket": "detect-text-41120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262588963166:android:52ec9fe30a7617ef0ed7cf",
+        "android_client_info": {
+          "package_name": "com.example.detachimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262588963166-rv4jsu6vf2jhm0jfc9vmaqrg5fumb3ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwNBGmU2DWU12qyyKnaBZX3uJW1Qsadc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262588963166-rv4jsu6vf2jhm0jfc9vmaqrg5fumb3ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
